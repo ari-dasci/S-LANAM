@@ -1,0 +1,2 @@
+dataset,modality,pipeline,method,condition,rho_L,rho_A,level,seed,n_train,n_label_noisy,n_input_noisy,n_overlap,test_acc,test_macro_f1,train_time_s,epochs,T_hat_path,T_hat_frob_err,sigma_E,delta,annotator,r_F,git_commit,gpu,deterministic,notes
+TAB,tabular,N,FC,J40,0.4,0.4,2,2,16000,6400,6400,2565,0.66925,0.6584972853594905,11.621505498886108,100,probs/TAB/N/J40_s2_That.npy,0.061035510343156345,,,,,code:23877000a2,NVIDIA GeForce RTX 5090,1,

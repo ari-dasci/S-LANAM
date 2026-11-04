@@ -1,0 +1,14 @@
+Copyright (c) 2026 Julián Luengo and Salvador García
+
+The per-seed results in results/ and the annotator labels in annotations/ are
+licensed under the Creative Commons Attribution 4.0 International License
+(CC BY 4.0). To view a copy of this license, visit
+https://creativecommons.org/licenses/by/4.0/
+
+Attribution: Julián Luengo and Salvador García, "Label and Attribute Noise Across
+Data Modalities: A Survey and Cross-Modal Study", https://github.com/ari-dasci/S-LANAM
+
+This license does not cover third-party material. The datasets used in the study
+are not included and remain subject to their providers' licenses, and the
+annotator labels were produced by pre-trained models released under their own
+licenses (see README.md).

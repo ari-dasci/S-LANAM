@@ -1,0 +1,2 @@
+dataset,modality,pipeline,method,condition,rho_L,rho_A,level,seed,n_train,n_label_noisy,n_input_noisy,n_overlap,test_acc,test_macro_f1,train_time_s,epochs,T_hat_path,T_hat_frob_err,sigma_E,delta,annotator,r_F,git_commit,gpu,deterministic,notes
+AUD,audio,N,FCstar,C,0.22824572514249525,0.0,,1,7895,1820,0,0,0.6810035842293907,0.7268138723444777,172.31537795066833,50,,,,,laion_clap:630k-audioset-best:b3708341862f581175dba5c356a4ebf74a9b6651,0.22824572514249525,code:23877000a2,NVIDIA GeForce RTX 4090,1,

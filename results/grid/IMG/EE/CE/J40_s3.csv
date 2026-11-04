@@ -1,0 +1,2 @@
+dataset,modality,pipeline,method,condition,rho_L,rho_A,level,seed,n_train,n_label_noisy,n_input_noisy,n_overlap,test_acc,test_macro_f1,train_time_s,epochs,T_hat_path,T_hat_frob_err,sigma_E,delta,annotator,r_F,git_commit,gpu,deterministic,notes
+IMG,image,EE,CE,J40,0.4,0.4,2,3,50000,20000,20000,8017,0.9342,0.93420948172403,10.556278705596924,100,,,0.02236413988095676,0.5060427188873291,,,code:23877000a2,NVIDIA GeForce RTX 5090,1,encoder=open_clip:ViT-B-32:openai:3.3.0

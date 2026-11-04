@@ -1,0 +1,2 @@
+dataset,modality,pipeline,method,condition,rho_L,rho_A,level,seed,n_train,n_label_noisy,n_input_noisy,n_overlap,test_acc,test_macro_f1,train_time_s,epochs,T_hat_path,T_hat_frob_err,sigma_E,delta,annotator,r_F,git_commit,gpu,deterministic,notes,test_acc_noisy,test_macro_f1_noisy,test_acc_es,best_epoch,extra_path
+TXT,text,OOS,CE,L40,0.4,0.0,2,0,20000,8000,0,0,0.9069736842105263,0.9068561151769526,112.54014658927917,3,,,,,,,code:6bce50ac5f,NVIDIA GeForce RTX 4090,1,,,,,,

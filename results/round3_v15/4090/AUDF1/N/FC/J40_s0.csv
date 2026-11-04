@@ -1,0 +1,2 @@
+dataset,modality,pipeline,method,condition,rho_L,rho_A,level,seed,n_train,n_label_noisy,n_input_noisy,n_overlap,test_acc,test_macro_f1,train_time_s,epochs,T_hat_path,T_hat_frob_err,sigma_E,delta,annotator,r_F,git_commit,gpu,deterministic,notes,test_acc_noisy,test_macro_f1_noisy,test_acc_es,best_epoch,extra_path
+AUDF1,audio,N,FC,J40,0.4,0.4,2,0,7859,3144,3144,1243,0.6517754868270332,0.671709817378386,196.1138048171997,50,probs/AUDF1/N/J40_s0_That.npy,0.07886388453353306,,,,,code:4e58c1343b,NVIDIA GeForce RTX 4090,1,silent_clips=0,,,,,

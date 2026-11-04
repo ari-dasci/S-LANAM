@@ -1,0 +1,2 @@
+dataset,modality,pipeline,method,condition,rho_L,rho_A,level,seed,n_train,n_label_noisy,n_input_noisy,n_overlap,test_acc,test_macro_f1,train_time_s,epochs,T_hat_path,T_hat_frob_err,sigma_E,delta,annotator,r_F,git_commit,gpu,deterministic,notes,test_acc_noisy,test_macro_f1_noisy,test_acc_es,best_epoch,extra_path
+AUDF10,audio,N,CE,S,0.22824572514249525,0.0,,9,7895,1802,0,0,0.6248506571087217,0.6338033697221007,229.04916524887085,50,,,,,laion_clap:630k-audioset-best:b3708341862f581175dba5c356a4ebf74a9b6651,0.22824572514249525,code:4e58c1343b,NVIDIA GeForce RTX 5090,1,,,,,,

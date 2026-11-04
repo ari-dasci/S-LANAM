@@ -1,0 +1,2 @@
+dataset,modality,pipeline,method,condition,rho_L,rho_A,level,seed,n_train,n_label_noisy,n_input_noisy,n_overlap,test_acc,test_macro_f1,train_time_s,epochs,T_hat_path,T_hat_frob_err,sigma_E,delta,annotator,r_F,git_commit,gpu,deterministic,notes,test_acc_noisy,test_macro_f1_noisy,test_acc_es,best_epoch,extra_path
+TS,timeseries,ES,CE,c0,0.0,0.0,2,2,7352,0,0,0,0.9453681710213777,0.9460348294896868,38.40347743034363,100,,,,,,,code:934b0b345c,NVIDIA GeForce RTX 4090,1,,,,0.9433322022395657,80,extra/TS/ES_CE_c0_s2.npz

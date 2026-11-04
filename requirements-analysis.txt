@@ -1,0 +1,4 @@
+# Enough to run analysis/*.py on the released CSVs (no GPU or PyTorch needed).
+numpy==2.5.3
+scipy==1.18.1
+pandas==3.0.6

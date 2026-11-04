@@ -1,0 +1,2 @@
+dataset,modality,pipeline,method,condition,rho_L,rho_A,level,seed,n_train,n_label_noisy,n_input_noisy,n_overlap,test_acc,test_macro_f1,train_time_s,epochs,T_hat_path,T_hat_frob_err,sigma_E,delta,annotator,r_F,git_commit,gpu,deterministic,notes,test_acc_noisy,test_macro_f1_noisy,test_acc_es,best_epoch,extra_path
+IMG,image,N,FC,Nr1,0.1723,0.0,,3,50000,8617,0,0,0.8605,0.8600099367461184,105.59422469139099,40,probs/IMG/N/Nr1_s3_That.npy,0.052577351417021245,,,,,code:c414b4ba65,NVIDIA GeForce RTX 5090,1,rate=0.1723,,,,,

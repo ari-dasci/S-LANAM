@@ -1,0 +1,2 @@
+dataset,modality,pipeline,method,condition,rho_L,rho_A,level,seed,n_train,n_label_noisy,n_input_noisy,n_overlap,test_acc,test_macro_f1,train_time_s,epochs,T_hat_path,T_hat_frob_err,sigma_E,delta,annotator,r_F,git_commit,gpu,deterministic,notes,test_acc_noisy,test_macro_f1_noisy,test_acc_es,best_epoch,extra_path
+TS,timeseries,TE,CEES,J20,0.2,0.2,2,4,6617,1470,1470,305,0.7611129962673906,0.7418633286947746,30.542938947677612,100,probs/TS/TE/J20_s4_That.npy,0.034852620257490606,,,,,code:4e58c1343b,NVIDIA GeForce RTX 5090,1,,,,0.9195792331184255,24,extra/TS/TE_CEES_J20_s4.npz

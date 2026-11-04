@@ -1,0 +1,2 @@
+dataset,modality,pipeline,method,condition,rho_L,rho_A,level,seed,n_train,n_label_noisy,n_input_noisy,n_overlap,test_acc,test_macro_f1,train_time_s,epochs,T_hat_path,T_hat_frob_err,sigma_E,delta,annotator,r_F,git_commit,gpu,deterministic,notes,test_acc_noisy,test_macro_f1_noisy,test_acc_es,best_epoch,extra_path
+TS,timeseries,N,FC,JP20,0.2,0.2,2,4,7352,1470,1470,305,0.8174414658975229,0.8123227680146902,46.9829740524292,100,probs/TS/N/JP20_s4_That.npy,0.0885143341557771,,,,,code:2a9c30db9c,NVIDIA GeForce RTX 4090,1,,,,,,

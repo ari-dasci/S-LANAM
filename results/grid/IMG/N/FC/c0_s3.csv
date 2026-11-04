@@ -1,0 +1,2 @@
+dataset,modality,pipeline,method,condition,rho_L,rho_A,level,seed,n_train,n_label_noisy,n_input_noisy,n_overlap,test_acc,test_macro_f1,train_time_s,epochs,T_hat_path,T_hat_frob_err,sigma_E,delta,annotator,r_F,git_commit,gpu,deterministic,notes
+IMG,image,N,FC,c0,0.0,0.0,2,3,50000,0,0,0,0.9318,0.9317630154709446,102.2397038936615,40,probs/IMG/N/c0_s3_That.npy,4.0639375162414245e-05,,,,,code:23877000a2,NVIDIA GeForce RTX 5090,1,

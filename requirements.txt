@@ -1,0 +1,27 @@
+# Tested with Python 3.12, PyTorch 2.13 and CUDA GPUs (RTX 4090 and RTX 5090) on Windows 11.
+# torchlibrosa, panns_inference and laion_clap were installed with --no-deps, as laion_clap pins an old numpy.
+torch==2.13.0
+torchvision==0.28.0
+numpy==2.5.3
+scipy==1.18.1
+pandas==3.0.6
+pillow==12.3.0
+scikit-learn==1.9.1
+pytest==9.1.1
+soundfile==0.14.0
+huggingface_hub==1.32.0
+transformers==5.19.0
+datasets==5.1.0
+sentence-transformers==6.1.0
+open_clip_torch==3.3.0
+torch_geometric==2.8.0.post1
+librosa==1.0.0
+h5py==3.16.0
+braceexpand
+webdataset
+ftfy
+progressbar2
+wget
+torchlibrosa==0.1.0
+panns_inference==0.1.1
+laion_clap==1.1.7

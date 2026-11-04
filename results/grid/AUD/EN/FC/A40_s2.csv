@@ -1,0 +1,2 @@
+dataset,modality,pipeline,method,condition,rho_L,rho_A,level,seed,n_train,n_label_noisy,n_input_noisy,n_overlap,test_acc,test_macro_f1,train_time_s,epochs,T_hat_path,T_hat_frob_err,sigma_E,delta,annotator,r_F,git_commit,gpu,deterministic,notes
+AUD,audio,EN,FC,A40,0.0,0.4,2,2,7895,0,3158,0,0.8637992831541219,0.8660631318532502,4.868627071380615,100,probs/AUD/EN/A40_s2_That.npy,0.0630405633979853,,,,,code:23877000a2,NVIDIA GeForce RTX 4090,1,encoder=panns_inference:Cnn14_mAP=0.431

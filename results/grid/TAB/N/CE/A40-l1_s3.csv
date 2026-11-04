@@ -1,0 +1,2 @@
+dataset,modality,pipeline,method,condition,rho_L,rho_A,level,seed,n_train,n_label_noisy,n_input_noisy,n_overlap,test_acc,test_macro_f1,train_time_s,epochs,T_hat_path,T_hat_frob_err,sigma_E,delta,annotator,r_F,git_commit,gpu,deterministic,notes
+TAB,tabular,N,CE,A40-l1,0.0,0.4,1,3,16000,0,6400,0,0.95475,0.9546427792143047,10.609523057937622,100,,,,,,,code:23877000a2,NVIDIA GeForce RTX 5090,1,

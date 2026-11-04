@@ -1,0 +1,2 @@
+dataset,modality,pipeline,method,condition,rho_L,rho_A,level,seed,n_train,n_label_noisy,n_input_noisy,n_overlap,test_acc,test_macro_f1,train_time_s,epochs,T_hat_path,T_hat_frob_err,sigma_E,delta,annotator,r_F,git_commit,gpu,deterministic,notes
+TXT,text,N,CE,S,0.19135,0.0,,3,20000,3827,0,0,0.9151315789473684,0.9150423016279625,68.36576890945435,3,,,,,Qwen/Qwen2.5-7B-Instruct@a09a35458c702b33eeacc393d103063234e8bc28,0.19135,code:23877000a2,NVIDIA GeForce RTX 4090,1,

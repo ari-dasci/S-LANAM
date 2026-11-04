@@ -1,0 +1,2 @@
+dataset,modality,pipeline,method,condition,rho_L,rho_A,level,seed,n_train,n_label_noisy,n_input_noisy,n_overlap,test_acc,test_macro_f1,train_time_s,epochs,T_hat_path,T_hat_frob_err,sigma_E,delta,annotator,r_F,git_commit,gpu,deterministic,notes
+GRA,graph,N,FC,A40,0.0,0.4,2,4,1626,0,650,0,0.8770794824399261,0.8624410899475958,2.1613848209381104,200,probs/GRA/N/A40_s4_That.npy,0.09457763995408071,,,,,code:23877000a2,NVIDIA GeForce RTX 4090,1,

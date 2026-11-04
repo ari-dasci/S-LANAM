@@ -1,0 +1,2 @@
+dataset,modality,pipeline,method,condition,rho_L,rho_A,level,seed,n_train,n_label_noisy,n_input_noisy,n_overlap,test_acc,test_macro_f1,train_time_s,epochs,T_hat_path,T_hat_frob_err,sigma_E,delta,annotator,r_F,git_commit,gpu,deterministic,notes
+IMG,image,EN,FC,J40,0.4,0.4,2,2,50000,20000,20000,8038,0.9409,0.9409145507731248,14.709502935409546,100,probs/IMG/EN/J40_s2_That.npy,0.01664842204076444,,,,,code:23877000a2,NVIDIA GeForce RTX 5090,1,encoder=open_clip:ViT-B-32:openai:3.3.0

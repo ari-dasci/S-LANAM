@@ -1,0 +1,2 @@
+dataset,modality,pipeline,method,condition,rho_L,rho_A,level,seed,n_train,n_label_noisy,n_input_noisy,n_overlap,test_acc,test_macro_f1,train_time_s,epochs,T_hat_path,T_hat_frob_err,sigma_E,delta,annotator,r_F,git_commit,gpu,deterministic,notes,test_acc_noisy,test_macro_f1_noisy
+AUD,audio,N,CE,J40,0.4,0.4,2,4,7895,3158,3158,1225,0.4958183990442055,0.5379997479250987,323.26743602752686,50,,,,,,,code:f6fa7632df,NVIDIA GeForce RTX 5090,1,silent_clips=0,0.44683393070489846,0.48200797795478756

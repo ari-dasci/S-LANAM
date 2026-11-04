@@ -1,0 +1,2 @@
+dataset,modality,pipeline,method,condition,rho_L,rho_A,level,seed,n_train,n_label_noisy,n_input_noisy,n_overlap,test_acc,test_macro_f1,train_time_s,epochs,T_hat_path,T_hat_frob_err,sigma_E,delta,annotator,r_F,git_commit,gpu,deterministic,notes,test_acc_noisy,test_macro_f1_noisy,test_acc_es,best_epoch,extra_path
+IMG,image,ES,FCstar,L40,0.4,0.0,2,0,50000,20000,0,0,0.836,0.8356487187163637,284.9836597442627,40,,,,,,,code:c414b4ba65,NVIDIA GeForce RTX 5090,1,,,,0.845,36,extra/IMG/ES_FCstar_L40_s0.npz

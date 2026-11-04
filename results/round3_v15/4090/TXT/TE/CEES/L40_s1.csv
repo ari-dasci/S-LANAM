@@ -1,0 +1,2 @@
+dataset,modality,pipeline,method,condition,rho_L,rho_A,level,seed,n_train,n_label_noisy,n_input_noisy,n_overlap,test_acc,test_macro_f1,train_time_s,epochs,T_hat_path,T_hat_frob_err,sigma_E,delta,annotator,r_F,git_commit,gpu,deterministic,notes,test_acc_noisy,test_macro_f1_noisy,test_acc_es,best_epoch,extra_path
+TXT,text,TE,CEES,L40,0.4,0.0,2,1,18000,8000,0,0,0.9057894736842105,0.9056289301725035,69.52677202224731,3,probs/TXT/TE/L40_s1_That.npy,0.016240592534102746,,,,,code:4e58c1343b,NVIDIA GeForce RTX 4090,1,,,,0.908157894736842,2,extra/TXT/TE_CEES_L40_s1.npz

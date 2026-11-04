@@ -1,0 +1,2 @@
+dataset,modality,pipeline,method,condition,rho_L,rho_A,level,seed,n_train,n_label_noisy,n_input_noisy,n_overlap,test_acc,test_macro_f1,train_time_s,epochs,T_hat_path,T_hat_frob_err,sigma_E,delta,annotator,r_F,git_commit,gpu,deterministic,notes
+TXT,text,EE,CE,A40,0.0,0.4,2,0,20000,0,8000,0,0.9173684210526316,0.9172650963088619,8.424288749694824,100,,,0.01091808546334505,0.3493787348270416,,,code:23877000a2,NVIDIA GeForce RTX 4090,1,encoder=intfloat/e5-large-v2

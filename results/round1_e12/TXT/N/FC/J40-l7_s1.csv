@@ -1,0 +1,2 @@
+dataset,modality,pipeline,method,condition,rho_L,rho_A,level,seed,n_train,n_label_noisy,n_input_noisy,n_overlap,test_acc,test_macro_f1,train_time_s,epochs,T_hat_path,T_hat_frob_err,sigma_E,delta,annotator,r_F,git_commit,gpu,deterministic,notes,test_acc_noisy,test_macro_f1_noisy
+TXT,text,N,FC,J40-l7,0.4,0.4,7,1,20000,8000,8000,3210,0.9006578947368421,0.9004354773568329,213.74654841423035,3,probs/TXT/N/J40-l7_s1_That.npy,0.03309776655288936,,,,,code:f6fa7632df,NVIDIA GeForce RTX 5090,1,,,

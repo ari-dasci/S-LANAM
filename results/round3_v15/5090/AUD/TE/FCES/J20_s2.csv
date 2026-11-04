@@ -1,0 +1,2 @@
+dataset,modality,pipeline,method,condition,rho_L,rho_A,level,seed,n_train,n_label_noisy,n_input_noisy,n_overlap,test_acc,test_macro_f1,train_time_s,epochs,T_hat_path,T_hat_frob_err,sigma_E,delta,annotator,r_F,git_commit,gpu,deterministic,notes,test_acc_noisy,test_macro_f1_noisy,test_acc_es,best_epoch,extra_path
+AUD,audio,TE,FCES,J20,0.2,0.2,2,2,7895,1579,1579,299,0.6344086021505376,0.6707470510798726,243.97750234603882,50,probs/AUD/TE/J20_s2_That.npy,0.07056844302389985,,,,,code:4e58c1343b,NVIDIA GeForce RTX 5090,1,,,,,,
